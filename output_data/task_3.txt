@@ -1,0 +1,30 @@
+dolphins dataset full dimension
+Nearest Neighbour 
+Test Accuracy :: 100.00
+Test Macro F1-score :: 100.00
+Test Micro F1-score :: 100.00
+Bayes Classifier 
+Test Accuracy :: 100.00
+Test Macro F1-score :: 100.00
+Test Micro F1-score :: 100.00
+
+pubmed dataset full dimension
+Nearest Neighbour 
+Test Accuracy :: 37.46 
+Test Macro F1-score :: 34.88
+Test Micro F1-score :: 37.46
+Bayes Classifier 
+Test Accuracy :: 42.99 
+Test Macro F1-score :: 31.88
+Test Micro F1-score :: 42.99
+
+
+twitter dataset full dimension
+Nearest Neighbour 
+Test Accuracy :: 49.00 
+Test Macro F1-score :: 40.57
+Test Micro F1-score :: 49.00
+Bayes Classifier 
+Test Accuracy :: 57.66 
+Test Macro F1-score :: 50.78
+Test Micro F1-score :: 57.66
